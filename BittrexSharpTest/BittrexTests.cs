@@ -15,8 +15,8 @@ namespace Tests.IntegrationTests
     {
         private const string DefaultMarketName = "BTC-ETH";
         private const string DefaultCurrency = "BTC";
-        private const string DefaultApiKey = "";
-        private const string DefaultApiSecret = "";
+        private const string DefaultApiKey = "abc";
+        private const string DefaultApiSecret = "xyz";
         private const string DefaultTargetAddress = "";
 
         #region Public Api
